@@ -1,0 +1,3 @@
+com/livesound/live/core/User.class
+com/livesound/live/core/UserService.class
+com/livesound/live/core/UserRepository.class
